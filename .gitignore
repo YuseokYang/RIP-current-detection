@@ -1,0 +1,6 @@
+.idea
+.venv
+__pycache__/
+model/__pycache__/
+RCNN_checkpoint_epoch1110_dae1_46.pth
+HD_PARA2_20190630_090624.jpg
